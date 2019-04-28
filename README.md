@@ -1,5 +1,3 @@
-#Mckinsey-Sales-Excellence
-
 Problem Statement<br>
 A digital arm of a bank faces challenges with lead conversions. The primary objective of this division is to increase customer acquisition through digital channels. The division was set up a few years back and the primary focus of the division over these years has been to increase the number of leads getting into the conversion funnel.
 
